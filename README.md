@@ -6,7 +6,7 @@
 # Scythe Data Analysis – Python
 
 ## 🎯 Objective
-TO analyse games of the board game Scythe, to answer : 
+To analyse games of the board game Scythe, to answer : 
 - Is the game balance ?
 - What is the best strategie ?
 
@@ -17,7 +17,7 @@ This projet aim to show my competences with Python in **Data Analysis**.
 - Contents : 152 data colomun (exemples : number of player, player one faction, player one points...)
 
 ## 🛠️ Tools & Technologies
-- Python 3
+- Python
 - Pandas
 - NumPy
 - Matplotlib / Seaborn
@@ -32,7 +32,7 @@ This projet aim to show my competences with Python in **Data Analysis**.
 
 ## 📈 Key Results
 - Determination of the highest-performing faction
-- Identification of the most effective faction–mat combination (detailed analysis available in the *Scythe* section)
+- Identification of the most effective faction–mat combination
 - Evaluation of the optimal star acquisition strategy
 
 
