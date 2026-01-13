@@ -1,6 +1,5 @@
 > 📌 Project realized as part of my personal training in data analysis  
 > 🎓 Master in Management – Grenoble Ecole de Management
->   
 > 🎲 This project uses the board game *Scythe* as a case study to apply data analysis techniques to strategic decision-making.
 
 
