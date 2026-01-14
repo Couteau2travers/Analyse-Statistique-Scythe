@@ -14,6 +14,7 @@ This projet aim to show my competences with Python in **Data Analysis**.
 
 ## 📊 Données
 - Source : dataset CSV (scrapped by myself, open Scrapping Links.py)
+- More than 9000 games
 - Contents : 152 data colomun (exemples : number of player, player one faction, player one points...)
 
 ## 🛠️ Tools & Technologies
